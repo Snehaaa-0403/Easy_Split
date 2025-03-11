@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="left">About Project</h2>
+<h2 align="left">About project</h2>
 
 ###
 
-<h1 align="left">Easy Split is a bill splitting solution that streamlines the process of dividing expenses among a group of people with the minimum number of transactions, adjusting itself whenever a new amount is added .<br>Easy Split maintain updated amounts on every addition of a bill paid by a user, calculate expense by arrange and store all bills in a heap like structure.<br>User can login and register in application securely</h1>
+<p align="left">➤ Easy Split is a bill splitting solution that streamlines the process of dividing expenses among a group of people with the minimum number of transactions, adjusting itself whenever a new amount is added.<br>➤Easy Split maintain updated amounts on every addition of a bill paid by a user, calculate expense by arrange and store all bills in a heap like structure.<br>➤User can login and register in application securely</p>
 
 ###
 
-<h2 align="left">Tech Stack used</h2>
+<h3 align="left">Tech Stack used</h3>
 
 ###
 
