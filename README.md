@@ -10,6 +10,14 @@
 
 ###
 
+<h2 align="left">Link for live application</h2>
+
+###
+
+<p align="left">https://easy-split-expense.netlify.app/</p>
+
+###
+
 <h3 align="left">Tech Stack used</h3>
 
 ###
